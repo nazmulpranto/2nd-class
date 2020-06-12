@@ -1,0 +1,68 @@
+body{
+	margin: 0;
+}
+.container {
+    width: 1050px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.main-menu {
+	background-color: #fff;
+	padding: 0;
+	text-align: center;
+	border-bottom: 1px solid #e5e7e9;
+}
+.fix {
+    overflow: hidden;
+}
+.logo a {
+	height: 10px;
+	width: 10px;
+	color: #000;
+	text-decoration: none;
+	text-transform: uppercase;
+	padding: 7px;
+	font-weight: bold;
+
+}
+.heading {
+	padding: 15px 263px;
+	text-align: center;
+	margin-bottom: 50px;
+	color:#333;
+}
+.blue{
+	color: blue;
+}
+.red{
+	color: red;
+}
+.green{
+	color: green;
+}
+.yellow{
+	color: yellow;
+}
+.bg img{
+	max-width: 100%;
+	background-size: cover;
+	background-position: center;
+	margin-bottom: 50px;
+}
+.bg h1{
+	margin-bottom: 50px;
+	color: #333;
+}
+.bg p{
+	color: #333;
+	font-size: 20px;
+	margin-bottom: 50px;
+}
+.color{
+	background-color: #4BC7A2;
+	text-align: center;
+	color: #fff;
+}
+.color h1{
+	padding: 70px 20px;
+}
